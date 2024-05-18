@@ -5,7 +5,7 @@ import time
 import speech_recognition as sr
 from PIL import Image, ImageTk
 import requests
-from twilio.rest import Client
+#from twilio.rest import Client
 import queue
 import json
 
@@ -16,10 +16,12 @@ sender_password = "*****"
 mailgun_api_key = "**************"  # ]Mailgun API key
 mailgun_domain = "candle.engineer"  # ]Mailgun domain
 
-# Twilio credentials
+
+#uncomment and replace it with ur credentials
+'''# Twilio credentials
 account_sid = '**************'
 auth_token = '*********'
-twilio_phone_number = '*******'
+twilio_phone_number = '*******' '''
 
 # Define patient information variables in the global scope
 patient_id = ""
