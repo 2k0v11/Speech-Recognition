@@ -12,14 +12,14 @@ import json
 
 # Use a dedicated email account instead of a personal account
 sender_email = "visiontech@candle.engineer"
-sender_password = "temp@123"
-mailgun_api_key = "0527e9d7f185a7e48fa5d069a7512d87-5d2b1caa-dca0a72d"  # Replace with your Mailgun API key
-mailgun_domain = "candle.engineer"  # Replace with your Mailgun domain
+sender_password = "*****"
+mailgun_api_key = "**************"  # ]Mailgun API key
+mailgun_domain = "candle.engineer"  # ]Mailgun domain
 
 # Twilio credentials
-account_sid = 'AC762890ad616b92cb59c426341fbed85c'
-auth_token = '49bde32f861d4718dfd325e462fdf017'
-twilio_phone_number = '+14154841582'
+account_sid = '**************'
+auth_token = '*********'
+twilio_phone_number = '*******'
 
 # Define patient information variables in the global scope
 patient_id = ""
