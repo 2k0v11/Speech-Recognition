@@ -1,7 +1,6 @@
 # MEDVOICE - Integrating Speech Translation in the Medical Field
 
-## This is a prototype model based on the Tkinter framework to present the business idea that was put forward by our team for a Hackathon 
-## organised by Visionet, Where we stood 2nd out of 400 teams participating in the event.
+### This is a prototype model based on the Tkinter framework to present the business idea that was put forward by our team for a Hackathon organised by Visionet, Where we stood 2nd out of 400 teams participating in the event. 
 
 ### DEMO:
 #### step-1: Hit the Record Prescription button to allow speech detection and transcription
